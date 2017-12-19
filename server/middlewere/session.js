@@ -6,5 +6,6 @@ module.exports = (req, res, next) => {
             messages: []
         }
     }
+    
 next();
 }
